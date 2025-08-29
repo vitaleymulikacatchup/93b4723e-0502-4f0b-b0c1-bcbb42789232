@@ -28,9 +28,9 @@ export default function Home() {
         title="Our Key Numbers"
         description="Explore our impactful metrics and showcases."
         kpiItems={[
-          { value: '500+', description: 'Sessions Held', icon: 'camera' },
-          { value: '200+', description: 'Happy Clients', icon: 'smile' },
-          { value: '98%', description: 'Satisfaction Rate', icon: 'thumbs-up' }
+          { value: '500+', description: 'Sessions Held' },
+          { value: '200+', description: 'Happy Clients' },
+          { value: '98%', description: 'Satisfaction Rate' }
         ]}
       />
       <CentralFAQ
