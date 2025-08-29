@@ -13,8 +13,8 @@ export default function Home() {
         subtitle="Capture your moments in a futuristic way"
       />
       <SplitAbout
-        body="We specialize in high-contrast, neon photography that embodies innovation and art. Our futuristic approach ensures that every image tells a story."
         heading="About Us"
+        body="We specialize in high-contrast, neon photography that embodies innovation and art. Our futuristic approach ensures that every image tells a story."
       />
       <ProcessRoadmap
         items={[
